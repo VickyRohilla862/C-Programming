@@ -15,3 +15,11 @@ int main(){
     printf("The value of a is %d", a);
     return 0;
 }
+
+//Input: 5
+
+/*
+Output:
+    Enter the value of a: 5
+    The value of a is 5
+*/

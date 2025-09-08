@@ -10,7 +10,7 @@ int main(){
     int i = 10;
     printf("This id %d\n", i);
     // %d for integers
-    // %f fro floating point numbers
+    // %f for floating point numbers
     // %c for characters
     return 0;
 }

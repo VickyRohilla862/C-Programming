@@ -19,4 +19,6 @@ int main(){
     return 0;
 }
 
+//output: The value of a is 6
+
 //If we try to change the value, the program will not run or throw an error.

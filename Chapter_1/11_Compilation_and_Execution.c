@@ -1,4 +1,4 @@
-// Check the image file named "c-compiling.png" fro better understanding.
+// Check the image file named "C-Compilation.png" for better understanding.
 
 // A compiler is a computer program which converts a C program into machine language so that it can be easily understood by the computer.
 

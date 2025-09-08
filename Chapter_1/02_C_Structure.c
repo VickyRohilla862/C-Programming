@@ -4,3 +4,5 @@ int main(){ //main function that runs on the time of execution
     printf("Hello World!"); //main code
     return 0; //indicated the end of the program
 }
+
+//Output: Hello World!
