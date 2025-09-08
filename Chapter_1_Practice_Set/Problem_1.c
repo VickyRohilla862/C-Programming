@@ -20,3 +20,16 @@ int main(){
     printf("The area of rectangle with length %d and breadth %d is %d", length, breadth, area);
     return 0;
 }
+
+/*
+input:
+5
+6
+*/
+
+/*
+Output:
+    Enter the length: 5
+    Enter the breadth: 6
+    The area of rectangle with length 5 and breadth 6 is 30
+*/

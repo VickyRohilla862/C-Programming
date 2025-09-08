@@ -15,3 +15,16 @@ int main(){
     printf("The volume of cylinder is %.2f", volume);
     return 0;
 }
+
+/*
+Input:
+    5
+    24
+*/
+/*
+Output:
+    Enter the radius: 5
+    The area of circle is 78.53
+    Enter the height: 24
+    The volume of cylinder is 1884.95
+*/

@@ -8,3 +8,11 @@ int main(){
     printf("The temperature in Fahrenheit is %.2f\n", fahrenheit);
     return 0;
 }
+
+//Input: 24.5
+
+/*
+Output:
+    Enter temperature in Celsius: 24.5
+    The temperature in Fahrenheit is 76.10
+*/
