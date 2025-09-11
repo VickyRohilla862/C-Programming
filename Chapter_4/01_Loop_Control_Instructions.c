@@ -5,20 +5,20 @@ For example:
     We want to print "Happy Birthday" 10 times. You can do it by using printf function 10 times like this:
 */
 
-// #include <stdio.h>
-// int main(){
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     printf("Happy Birthday!");
-//     return 0;
-// }
+#include <stdio.h>
+int main(){
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    printf("Happy Birthday!");
+    return 0;
+}
 
 /*
 But what if I ask you to print it 100 times or 200 times?..

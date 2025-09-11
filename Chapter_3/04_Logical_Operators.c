@@ -14,7 +14,7 @@ USAGE OF LOGICAL OPERATORS:
         c. '1' && '1' is evaluated as true.
 
     3. ! (NOT) -> returns true is the given false and false if given true
-        example:
+        example:*/
             #include <stdio.h>
             int main(){
                 int a = 1;
@@ -23,13 +23,14 @@ USAGE OF LOGICAL OPERATORS:
                 printf("%d", !b);
                 return 0;
             }
-        output:
+        /*output:
             0
             1
+        */
 
-As the number of conditions increases, the level of indentation increases. This reduces readability. Logical operators come to rescue in such situation.
+//As the number of conditions increases, the level of indentation increases. This reduces readability. Logical operators come to rescue in such situation.
 
-example:
+//example:
     #include <stdio.h>
     int main(){
         int money = 1; //1 represents true
@@ -47,7 +48,7 @@ example:
         return 0;
     }
 
-We can write it as:
+//We can write it as:
     #include <stdio.h>
     int main(){
         int money = 1;
@@ -62,5 +63,4 @@ We can write it as:
         return 0;
     }
 
-Both works same.
-*/
+//Both works same.
