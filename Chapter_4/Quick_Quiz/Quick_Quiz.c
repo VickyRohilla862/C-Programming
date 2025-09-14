@@ -9,4 +9,8 @@ The loop counter needs not to be int, it can be a float also.
             2
             3
             4
+
+3. Write a program to print first "n" natural numbers using for loop.
+
+4. Write a program to print "n" natural numbers in reverse using for loop.
 */
