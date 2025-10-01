@@ -1,6 +1,6 @@
 # C Programming Course by Vicky Rohilla
 
-Welcome to the **C Programming Course** repository! 🎯 This course is specially designed for beginners who want to learn the fundamentals of C programming from scratch. I have created this content as part of my YouTube channel to help learners understand programming concepts easily and effectively.
+Welcome to the **C Programming Course** repository! 🎯 This course is specially designed for beginners who want to learn the fundamentals of C programming from scratch. I have created this content as part of my YouTube channel to help learners understand programming concepts easily and effectively. This course is totally based on the course made by @codewithharry!!
 
 ## 📺 Course Overview
 
