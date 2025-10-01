@@ -6,4 +6,6 @@
                        3. Subtraction of a pointer from another
                        4. Comparison of two pointer variables)
 on another variable by creating pointers in a separate program. Demonstrate all the four operations.
+
+3. Create a 2D array by taking input from the user. Write a display function to print the content of this 2D array on the screen
 */
